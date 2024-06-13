@@ -1,1 +1,1 @@
-https://matthewhenry.online/
+https://onlinebijbelverklaring.nl
