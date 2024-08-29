@@ -14,5 +14,5 @@ Door de grote hoeveelheid tekst zullen er (ondanks controle) ongetwijfeld veel t
 ## ✔️ Bijdragen?
 Het controleren en verbeteren van teksten van de bijbelverklaringen kost veel tijd. Wilt u meehelpen? Uw bijdrage wordt gewaardeerd! De volledige code is beschikbaar op GitHub, waardoor u eenvoudig kunt meehelpen. Voor meer informatie, stuur een e-mail naar: onlinebijbelverklaring.nl@outlook.com
 
-
+## Donatie
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/onlinebijbelverklaringnl)
